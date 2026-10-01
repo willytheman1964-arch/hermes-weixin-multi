@@ -1,4 +1,4 @@
-platform"""
+Billy's platform"""
 Weixin Multi-Account Platform Adapter — Plugin Entry Point.
 
 Registers the weixin_multi platform adapter under the name "weixin_multi",
